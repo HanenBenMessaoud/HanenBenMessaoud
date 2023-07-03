@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HanenBenMessaoud/HanenBenMessaoud/main/Header.png" alt="MasterHead" width="520" height="320">
+  <img src="https://raw.githubusercontent.com/HanenBenMessaoud/HanenBenMessaoud/main/Header.png" alt="MasterHead" width="820" height="420">
 </p>
 
 ### Hi, I'm Atef👋
